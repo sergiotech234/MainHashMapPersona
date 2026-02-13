@@ -16,5 +16,6 @@ public class Main {
         for (String nombre : edades.keySet()) {
             System.out.println(nombre + ": " + edades.get(nombre));
         }
+
     }
 }
